@@ -43,4 +43,4 @@ To run this on startup:
 <li>If no pings can get through despite devices being online, run the file with sudo (Linux) or as administrator (Windows)
 
 <h2>Thanks!</h2>
-If you'd like to send me an anonymous message, go <a href="https://rileyhutton.com/sendme/">here</a> :)
+If you'd like to send me an anonymous message, go <a href="https://rileyhutton.com/random/sendme/">here</a> :)

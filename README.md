@@ -1,5 +1,5 @@
 <h1>Telegram Server Status (TS2)</h1>
-Recieve alerts via telegram if a device (server, POS terminal, workstation, etc) is offline. I threw this together in an evening so it's not pretty but works great.
+Recieve alerts via telegram if a device (server, POS terminal, workstation, etc) is offline. Thrown together in an evening to serve a specific purpose and nothing more!
 
 <p float="left">
   <img src="screenshots/image-1.png" width="49%" />
